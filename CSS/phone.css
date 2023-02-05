@@ -1,0 +1,39 @@
+/* Navbar Section ( For Maximum Width 400px ) */
+@media (max-width : 400px) {
+    #image img {
+        width: 80%;
+    }
+
+    small {
+        font-size: 12px;
+    }
+}
+
+
+/* Navbar Section ( For Maximum Width 800px ) */
+#navbar {
+    display: block;
+    margin: 15px;
+    text-align: center;
+}
+
+
+/* Main Section ( For Maximum Width 800px ) */
+#main {
+    display: block;
+    height: auto;
+}
+
+
+/* Navigation Menu ( For Maximum Width 800px ) */
+#navigation {
+    display: none;
+}
+
+
+/* About Section ( For Maximum Width 800px ) */
+#about {
+    height: auto;
+    overflow: visible;
+    margin-left: 2px;
+}
